@@ -1,0 +1,17 @@
+# minor project 2
+
+day = 24 * 0.51
+week = 7 * 24 * 0.51
+month = 30 * 24 * 0.51
+
+# 1
+print(f"The cost to operate server for one day is ${day}")
+
+# 2
+print(f"The cost to operate server for one week is ${week}")
+
+# 3
+print(f"The cost to operate server for one month is ${month}")
+
+# 4
+print(f"The Number of days the server will operate for $918 is {981//(24*0.51)}")
