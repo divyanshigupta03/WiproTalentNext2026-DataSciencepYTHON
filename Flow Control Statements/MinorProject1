@@ -1,0 +1,10 @@
+distance = int(input("Tell the distance you want to travel:"))
+
+if(distance<3):
+    print("You should ride Bicycle")
+
+elif(distance>=3 and distance<300):
+    print("You should ride Motor Cycle")
+
+else:
+    print("You should drive a Super-Car")
